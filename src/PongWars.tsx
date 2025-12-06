@@ -284,7 +284,7 @@ export default function PongWars() {
                   textDecoration: 'none',
                   paddingLeft: '8px'
                }}
-               href="https://mohammadnabi.me"
+               href="https://x.com/mdnabihotaki"
                target="_blank"
                rel="noopener noreferrer"
             >
